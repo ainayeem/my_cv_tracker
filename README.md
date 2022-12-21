@@ -1,8 +1,7 @@
-# Software-Project-5-Assignment-1
+# Software-Project-6-Assignment-1
 
 # my_cv_tracker
 
-This is my assignment.
 
 ##  I learned
 * Repository initialization
